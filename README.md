@@ -2,7 +2,7 @@ Como Usar
 
 Execute o arquivo main.py para iniciar a API.
 
-Acesse a URL http://localhost:5000/filmes/<ano> no seu navegador ou via ferramenta de teste de API, substituindo <ano> pelo ano de lançamento desejado
+Acesse a URL http://localhost:5000/filmes/<ano> no seu navegador, substituindo ANO pelo ano de lançamento desejado
 A API retornará uma resposta JSON com os filmes encontrados para o ano de lançamento informado
 
 Exemplo de Uso
